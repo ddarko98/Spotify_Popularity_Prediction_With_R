@@ -1,3 +1,5 @@
+# Spotify popularity prediction using linear regresion model
+
 This analysis aimed to predict song popularity using a linear regression model based on various audio features and, in this improved version, the song's release year and explicit content status.
 
 Model Setup and Data Preparation:
